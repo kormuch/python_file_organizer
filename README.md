@@ -1,0 +1,2 @@
+This was the very first program I ever wrote, back in the days before large language models. Flawed? Yes. Useful? Also **YES**. It’s not pretty, it’s not efficient, and the code definitely shows that I was just starting out — but I still use it **EVERY DAY** to keep my download folder clean.
+The script takes files from a source folder, checks them against keywords from a JSON file, and then moves them into matching destination folders. It can also pull files out of subfolders and remove empty folders.
